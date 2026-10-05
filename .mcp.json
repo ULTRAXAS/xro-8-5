@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "search-5": {
+    "xro-8-5": {
       "type": "http",
       "url": "https://ai.ultraxas.com/mcp"
     }

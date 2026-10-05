@@ -1,6 +1,6 @@
-# Search 5
+# Xro 8.5
 
-Grok Build plugin for **Search 5** by ULTRAXAS — live web search with citations and Xro chat, backed by the public MCP server at [https://ai.ultraxas.com/mcp](https://ai.ultraxas.com/mcp).
+Grok Build plugin for **Xro 8.5** by ULTRAXAS — live web search with citations and Xro chat, backed by the public MCP server at [https://ai.ultraxas.com/mcp](https://ai.ultraxas.com/mcp).
 
 This is a thin wrapper (same pattern as Sentry and Vercel): it does not run a local server. It points Grok Build at the hosted MCP (`web_search` and `chat`).
 
@@ -9,15 +9,15 @@ This is a thin wrapper (same pattern as Sentry and Vercel): it does not run a lo
 Once listed in the [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace):
 
 ```bash
-grok plugin install search-5 --trust
+grok plugin install xro-8-5 --trust
 ```
 
-Or browse in Grok Build with `/marketplace`, find **Search 5**, and press `i`.
+Or browse in Grok Build with `/marketplace`, find **Xro 8.5**, and press `i`.
 
 ## Manual MCP (without the marketplace)
 
 ```bash
-grok mcp add --transport http search-5 https://ai.ultraxas.com/mcp
+grok mcp add --transport http xro-8-5 https://ai.ultraxas.com/mcp
 ```
 
 ## Requirements
