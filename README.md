@@ -32,6 +32,10 @@ grok mcp add --transport http xro-8-5 https://ai.ultraxas.com/mcp
 | `web_search` | Live web search with a synthesized answer and source citations |
 | `chat` | Message the ULTRAXAS Xro chat model |
 
+## Branding
+
+Plugin logo: [`assets/logo.jpg`](assets/logo.jpg).
+
 ## Links
 
 - MCP endpoint: https://ai.ultraxas.com/mcp
