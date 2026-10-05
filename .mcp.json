@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "xro-search": {
+      "type": "http",
+      "url": "https://ai.ultraxas.com/mcp"
+    }
+  }
+}

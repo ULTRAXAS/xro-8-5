@@ -1,0 +1,18 @@
+{
+  "name": "xro-search",
+  "version": "1.0.0",
+  "description": "ULTRAXAS Xro search and chat for Grok Build. Web search with citations plus Xro chat via the public MCP at ai.ultraxas.com.",
+  "author": {
+    "name": "ULTRAXAS",
+    "url": "https://ultraxas.com"
+  },
+  "repository": "https://github.com/ULTRAXAS/xro-search",
+  "homepage": "https://ai.ultraxas.com/mcp",
+  "license": "MIT",
+  "keywords": [
+    "xro",
+    "xro-search",
+    "ultraxas",
+    "ultraxas xro"
+  ]
+}
