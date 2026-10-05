@@ -1,18 +1,18 @@
 {
-  "name": "xro-search",
+  "name": "search-5",
   "version": "1.0.0",
-  "description": "ULTRAXAS Xro search and chat for Grok Build. Web search with citations plus Xro chat via the public MCP at ai.ultraxas.com.",
+  "description": "Search 5 by ULTRAXAS — live web search with citations and Xro chat for Grok Build, via the public MCP at ai.ultraxas.com.",
   "author": {
     "name": "ULTRAXAS",
     "url": "https://ultraxas.com"
   },
-  "repository": "https://github.com/ULTRAXAS/xro-search",
+  "repository": "https://github.com/ULTRAXAS/search-5",
   "homepage": "https://ai.ultraxas.com/mcp",
   "license": "MIT",
   "keywords": [
-    "xro",
-    "xro-search",
+    "search-5",
+    "search 5",
     "ultraxas",
-    "ultraxas xro"
+    "xro"
   ]
 }
