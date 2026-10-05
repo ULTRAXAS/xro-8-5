@@ -34,7 +34,10 @@ grok mcp add --transport http xro-8-5 https://ai.ultraxas.com/mcp
 
 ## Branding
 
-Plugin logo: [`assets/logo.jpg`](assets/logo.jpg).
+- Full logo: [`assets/logo.svg`](assets/logo.svg) (ULTRAXAS blue `#1488FB` → purple `#623EFA`)
+- Mark: [`assets/logo-mark.svg`](assets/logo-mark.svg)
+- Raster: [`assets/logo.png`](assets/logo.png), [`assets/logo.jpg`](assets/logo.jpg)
+
 
 ## Links
 
