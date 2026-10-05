@@ -1,7 +1,7 @@
 {
   "name": "xro-8-5",
   "version": "1.0.0",
-  "description": "Xro 8.5 by ULTRAXAS — live web search with citations and Xro chat for Grok Build, via the public MCP at ai.ultraxas.com.",
+  "description": "Xro 8.5 by ULTRAXAS \u2014 live web search with citations and Xro chat for Grok Build, via the public MCP at ai.ultraxas.com.",
   "author": {
     "name": "ULTRAXAS",
     "url": "https://ultraxas.com"
@@ -14,5 +14,6 @@
     "xro 8.5",
     "xro",
     "ultraxas"
-  ]
+  ],
+  "logo": "assets/logo.jpg"
 }
