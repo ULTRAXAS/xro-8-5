@@ -1,6 +1,6 @@
 # Xro 8.5
 
-Grok Build plugin for **Xro 8.5** by ULTRAXAS — live web search with citations and Xro chat, backed by the public MCP server at [https://ai.ultraxas.com/mcp](https://ai.ultraxas.com/mcp).
+**Xro 8.5** by ULTRAXAS: live web search with citations and Xro chat, backed by the public MCP server at [https://ai.ultraxas.com/mcp](https://ai.ultraxas.com/mcp).
 
 This is a thin wrapper (same pattern as Sentry and Vercel): it does not run a local server. It points Grok Build at the hosted MCP (`web_search` and `chat`).
 
